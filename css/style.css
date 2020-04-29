@@ -4,7 +4,10 @@
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   border: 0;
-  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: Arial,
+ "Helvetica Neue",
+ Helvetica,
+ sans-serif;
 }
 
 * a {
@@ -22,7 +25,9 @@ li {
   margin: 0 auto;
   height: 100%;
 }
-
+.intro_image img {
+  height: 200px
+}
 .footer {
   display: -webkit-box;
   display: -ms-flexbox;
